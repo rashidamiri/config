@@ -121,11 +121,11 @@ alt-3 = 'workspace 3'
 alt-4 = 'workspace 4'
 alt-5 = 'workspace 5'
 alt-6 = 'workspace 6'
-alt-p = 'workspace P' # For personal
-alt-b = 'workspace B' # For browser
-alt-c = 'workspace C' # For Chat apps like slack
-alt-n = 'workspace N' # For notes
-alt-t = 'workspace T' # For terminals
+alt-p = 'workspace P'
+alt-b = 'workspace B'
+alt-c = 'workspace C'
+alt-n = 'workspace N'
+alt-t = 'workspace T'
 
 # See: https://nikitabobko.github.io/AeroSpace/commands#move-node-to-workspace
 alt-shift-1 = 'move-node-to-workspace 1'
